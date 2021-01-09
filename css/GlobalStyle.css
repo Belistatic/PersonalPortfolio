@@ -26,7 +26,9 @@
   header .navigation .logo{
     margin-left: 20px;
   }
-  
+  h1.cognomh1{
+    font-family: 'Anton', sans-serif;
+  }
   header .navigation .logo h1{
     color: #b1d4e0;
     font-size: 30px;
